@@ -6,3 +6,21 @@
 .top-buffer {
     margin-top: 10px;
 }
+
+.answer {
+    padding:15px;
+    border-radius: 10px;
+    border: 1px solid #bbb;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.answer:hover {
+    background: #ccc;
+}
+
+.image-answer {
+    cursor: pointer;
+    height: 350px;
+    width: 100%;
+}
